@@ -2,6 +2,7 @@ Ok so let's start learning React!!
 
 <br/>
 What is React?
+<br/>
 React is a JavaScript library for building user interfaces. It allows developers to create interactive and dynamic 🤔
 It was created by facebook  in 2013. 
 It's a Single Pgae Application(SPA) based  framework for building user interfaces. It allows developers to create reusable components that can be combined to build.
